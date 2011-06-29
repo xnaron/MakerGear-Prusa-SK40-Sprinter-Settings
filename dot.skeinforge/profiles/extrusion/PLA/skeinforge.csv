@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+Name                          	Value
+WindowPosition	66+15
+Open File for Skeinforge	F:/G Drive/RepRap/sd card holder/SDCardHolder.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False

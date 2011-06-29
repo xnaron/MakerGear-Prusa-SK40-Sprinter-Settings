@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+Name                          	Value
+WindowPosition	54+17
+Open File for Skeinforge	F:/G Drive/RepRap/jewellery/screwing_box_perfect_bottom.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False
