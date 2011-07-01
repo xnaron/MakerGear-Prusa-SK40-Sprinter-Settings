@@ -13,9 +13,9 @@ Layer Extra Span (integer):	0
 Line (index):	24
 Display Line	False
 View Move	True
-Scale (pixels per millimeter):	7.5
+Scale (pixels per millimeter):	15.0
 Screen Horizontal Inset (pixels):	100
-Screen Vertical Inset (pixels):	385
+Screen Vertical Inset (pixels):	220
 Show Gcode	True
 Show Position	True
 Width of Extrusion Thread (pixels):	3

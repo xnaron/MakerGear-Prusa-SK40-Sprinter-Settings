@@ -24,14 +24,14 @@
 
 //Acceleration settings
 #ifdef RAMP_ACCELERATION
-float min_units_per_second = 35.0; // the minimum feedrate
+float min_units_per_second = 20.0; // the minimum feedrate WAS SET to 35 set to 20 to reduce SHAKES
 long max_acceleration_units_per_sq_second = 750; // Max acceleration in mm/s^2 for printing moves
 long max_travel_acceleration_units_per_sq_second = 1500; // Max acceleration in mm/s^2 for travel moves
 #endif
 #ifdef EXP_ACCELERATION
 float full_velocity_units = 10; // the units between minimum and G1 move feedrate
 float travel_move_full_velocity_units = 10; // used for travel moves
-float min_units_per_second = 35.0; // the minimum feedrate
+float min_units_per_second = 35.0; // the minimum feedrate 
 float min_constant_speed_units = 2; // the minimum units of an accelerated move that must be done at constant speed
                                     // Note that if the move is shorter than this value, acceleration won't be perfomed,
                                     // but will be done at the minimum between min_units_per_seconds and move feedrate speeds.
@@ -145,7 +145,7 @@ const int Z_HOME_DIR = -1;
 const bool ENDSTOPS_INVERTING = true;
 const bool min_software_endstops = false; //If true, axis won't move to coordinates less than zero.
 const bool max_software_endstops = true;  //If true, axis won't move to coordinates greater than the defined lengths below.
-const int X_MAX_LENGTH = 212;
+const int X_MAX_LENGTH = 180;
 const int Y_MAX_LENGTH = 180;
 const int Z_MAX_LENGTH = 70;
 

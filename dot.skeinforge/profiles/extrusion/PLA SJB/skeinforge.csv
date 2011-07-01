@@ -1,7 +1,7 @@
 Format is tab separated skeinforge settings.
 Name                          	Value
 WindowPosition	43+0
-Open File for Skeinforge	F:/G Drive/RepRap/heart gears/heartgear_plate.stl
+Open File for Skeinforge	F:/G Drive/RepRap/heart gears/heartgears.stl
 analyze	False
 craft	True
 help	False

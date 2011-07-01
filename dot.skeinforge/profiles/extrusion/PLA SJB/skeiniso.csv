@@ -16,13 +16,13 @@ Draw Arrows	False
 Go Around Extruder Off Travel	False
 Layer (index):	0
 Layer Extra Span (integer):	912345678
-Line (index):	8399
+Line (index):	14
 Display Line	True
 View Move	False
 View Rotate	False
 Number of Fill Bottom Layers (integer):	1
 Number of Fill Top Layers (integer):	1
-Scale (pixels per millimeter):	7.5
+Scale (pixels per millimeter):	15.0
 Screen Horizontal Inset (pixels):	100
 Screen Vertical Inset (pixels):	221
 Show Gcode	True
