@@ -1,0 +1,7 @@
+Format is tab separated skeinforge profile settings.
+_Name                          	Value
+WindowPosition	59+200
+cutting	False
+extrusion	True
+milling	False
+winding	False
