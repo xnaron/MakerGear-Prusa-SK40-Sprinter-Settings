@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	348+24
+Open File for Skeinforge	/home/defiant/reprap/Xnaron Prusa/z-bottom-right.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False
